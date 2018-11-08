@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontus.deps.json
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontus.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontus.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontus.dll
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontus.pdb
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontus.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontus.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontus.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontus.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontus.dll
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontus.pdb

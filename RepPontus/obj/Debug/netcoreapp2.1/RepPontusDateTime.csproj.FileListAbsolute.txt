@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontusDateTime.deps.json
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontusDateTime.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontusDateTime.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontusDateTime.dll
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\bin\Debug\netcoreapp2.1\RepPontusDateTime.pdb
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontusDateTime.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontusDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontusDateTime.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontusDateTime.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontusDateTime.dll
+C:\Users\Yen Agetorp\source\repos\RepPontus\RepPontus\obj\Debug\netcoreapp2.1\RepPontusDateTime.pdb

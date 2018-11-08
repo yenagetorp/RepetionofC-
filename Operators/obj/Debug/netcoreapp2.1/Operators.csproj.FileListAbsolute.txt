@@ -1,0 +1,4 @@
+C:\Users\Yen Agetorp\source\repos\RepPontus\Operators\obj\Debug\netcoreapp2.1\Operators.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\Operators\obj\Debug\netcoreapp2.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\RepPontus\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfo.cs

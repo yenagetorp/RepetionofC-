@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepPontusDateTime", "RepPontus\RepPontusDateTime.csproj", "{6B7E3753-06FC-4A3C-ADE3-2C1C3C069876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{3701D103-76BE-47D5-800C-0C80A6919BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B7E3753-06FC-4A3C-ADE3-2C1C3C069876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7E3753-06FC-4A3C-ADE3-2C1C3C069876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7E3753-06FC-4A3C-ADE3-2C1C3C069876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7E3753-06FC-4A3C-ADE3-2C1C3C069876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3701D103-76BE-47D5-800C-0C80A6919BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3701D103-76BE-47D5-800C-0C80A6919BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3701D103-76BE-47D5-800C-0C80A6919BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3701D103-76BE-47D5-800C-0C80A6919BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9ED2DCB-21E5-454F-BA9A-97E3AA7851D6}
+	EndGlobalSection
+EndGlobal
